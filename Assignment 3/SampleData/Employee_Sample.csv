@@ -1,0 +1,50 @@
+EmployeeID,Name,Role,Shift,PerformanceScore
+4000000,Olivia Smith,Cashier,"Monday, 7:00 AM - 3:00 PM",1
+4000001,Benjamin Johnson,Stock,"Wednesday, 2:00 PM - 10:00 PM",5
+4000002,Sophia Davis,Beauty Advisor,"Sunday, 10:00 PM - 6:00 AM",4
+4000003,William Anderson,Sales Associate,"Thursday, 9:00 AM - 5:00 PM",3
+4000004,Ava Wilson,Cashier,"Friday, 11:00 PM - 7:00 AM",2
+4000005,James Martinez,Stock,"Tuesday, 3:30 AM - 11:30 AM",1
+4000006,Mia Brown,Beauty Advisor,"Saturday, 1:00 PM - 9:00 PM",5
+4000007,Noah Taylor,Sales Associate,"Monday, 6:30 AM - 2:30 PM",4
+4000008,Charlotte Clark,Cashier,"Wednesday, 4:00 PM - 12:00 AM",3
+4000009,Alexander White,Stock,"Friday, 8:00 AM - 4:00 PM",3
+4000010,Amelia Harris,Beauty Advisor,"Thursday, 12:00 PM - 8:00 PM",2
+4000011,Daniel Moore,Beauty Advisor,"Thursday, 9:00 AM - 5:00 PM",1
+4000012,Harper Jackson,Sales Associate,"Friday, 11:00 PM - 7:00 AM",5
+4000013,Michael Thompson,Cashier,"Tuesday, 3:30 AM - 11:30 AM",4
+4000014,Abigail Turner,Stock,"Saturday, 1:00 PM - 9:00 PM",5
+4000015,Matthew Lewis,Beauty Advisor,"Monday, 6:30 AM - 2:30 PM",5
+4000016,Emily Garcia,Sales Associate,"Saturday, 1:00 PM - 9:00 PM",5
+4000017,Joseph Young,Cashier,"Monday, 6:30 AM - 2:30 PM",5
+4000018,Sofia Allen,Stock,"Wednesday, 4:00 PM - 12:00 AM",5
+4000019,Christopher Perez,Beauty Advisor,"Friday, 8:00 AM - 4:00 PM",5
+4000020,Samuel Baker,Cashier,"Thursday, 12:00 PM - 8:00 PM",5
+4000021,Grace Hill,Stock,"Thursday, 9:00 AM - 5:00 PM",1
+4000022,David Walker,Beauty Advisor,"Friday, 11:00 PM - 7:00 AM",5
+4000023,Madison Turner,Sales Associate,"Tuesday, 3:30 AM - 11:30 AM",4
+4000024,Benjamin Reed,Cashier,"Saturday, 1:00 PM - 9:00 PM",5
+4000025,Samuel Wright,Stock,"Monday, 6:30 AM - 2:30 PM",5
+4000026,Lily Adams,Beauty Advisor,"Friday, 8:00 AM - 4:00 PM",5
+4000027,Daniel Green,Cashier,"Thursday, 12:00 PM - 8:00 PM",5
+4000028,Addison King,Stock,"Thursday, 9:00 AM - 5:00 PM",4
+4000029,Victoria Nelson,Beauty Advisor,"Friday, 11:00 PM - 7:00 AM",5
+4000030,Mason Mitchell,Sales Associate,"Tuesday, 3:30 AM - 11:30 AM",5
+4000031,Elizabeth Powell,Stock,"Saturday, 1:00 PM - 9:00 PM",4
+4000032,Elijah Scott,Beauty Advisor,"Monday, 6:30 AM - 2:30 PM",5
+4000033,Aiden Carter,Cashier,"Saturday, 1:00 PM - 9:00 PM",5
+4000034,Zoey Butler,Stock,"Monday, 6:30 AM - 2:30 PM",4
+4000035,Samuel Murphy,Beauty Advisor,"Wednesday, 4:00 PM - 12:00 AM",5
+4000036,Samuel Hayes,Sales Associate,"Friday, 8:00 AM - 4:00 PM",5
+4000037,Jackson Morgan,Stock,"Thursday, 12:00 PM - 8:00 PM",4
+4000038,Mia Foster,Beauty Advisor,"Thursday, 9:00 AM - 5:00 PM",5
+4000039,Chloe Collins,Cashier,"Tuesday, 3:30 AM - 11:30 AM",5
+4000040,William Price,Beauty Advisor,"Saturday, 1:00 PM - 9:00 PM",5
+4000041,Joseph Turner,Cashier,"Monday, 6:30 AM - 2:30 PM",5
+4000042,Olivia Reed,Stock,"Saturday, 1:00 PM - 9:00 PM",5
+4000043,Scarlett Allen,Beauty Advisor,"Monday, 6:30 AM - 2:30 PM",5
+4000044,Alexander Baker,Cashier,"Wednesday, 4:00 PM - 12:00 AM",5
+4000045,Harper Wright,Stock,"Friday, 8:00 AM - 4:00 PM",5
+4000046,Daniel Johnson,Beauty Advisor,"Thursday, 12:00 PM - 8:00 PM",5
+4000047,Addison Adams,Sales Associate,"Thursday, 9:00 AM - 5:00 PM",5
+4000048,William Lee,Stock,"Tuesday, 3:30 AM - 11:30 AM",2
